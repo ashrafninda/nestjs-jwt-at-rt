@@ -6,6 +6,7 @@
 
 ### Packages included
 
+- prisma with postgres
 - passport for auth strategy
 - class validator for input validator
 - bycrypt for password hashing
